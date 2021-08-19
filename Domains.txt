@@ -1,209 +1,274 @@
-(Accra, Ablekuma Central Municipal,Ablekuma Central)
-(Accra, Ablekuma North Municipal,Ablekuma North)
-(Accra, Ablekuma West Municipal,Ablekuma West)
-(Accra, Accra Metropolitan,Ablekuma South)
-(Accra, Accra Metropolitan,Odododiodio)
-(Accra, Accra Metropolitan,Okaikwei Central)
-(Accra, Accra Metropolitan,Okaikwei South)
-(Accra, Ada East,Ada)
-(Accra, Ada West,Sege)
-(Accra, Adenta Municipal,Adenta)
-(Accra, Ashaiman Municipal,Ashaiman)
-(Accra, Ayawaso Central Municipal,Ayawaso Central)
-(Accra, Ayawaso East Municipal,Ayawaso East)
-(Accra, Ayawaso North Municipal,Ayawaso North)
-(Accra, Ayawaso West Municipal,Ayawaso West)
-(Accra, Ga Central Municipal,Anyaa-Sowutuom)
-(Accra, Ga East Municipal,Dome-Kwabenya)
-(Accra, Ga North Municipal,Trobu)
-(Accra, Ga South Municipal,Bortianor-Ngleshie-Amanfrom)
-(Accra, Ga South Municipal,Domeabra-Obom)
-(Accra, Ga West Municipal,Amasaman)
-(Accra, Korle Klottey Municipal,Korle Klottey)
-(Accra, Kpone Katamanso Municipal,Kpone-Katamanso)
-(Accra, Krowor Municipal,Krowor)
-(Accra, La Dade Kotopon Municipal,Dade Kotopon)
-(Accra, La Nkwantanang Madina Municipal,Abokobi-Madina)
-(Accra, Ledzokuku Municipal,Ledzokuku)
-(Accra, Ningo Prampram,Ningo-Prampram)
-(Accra, Okaikwei North Municipal,Okaikwei North)
-(Accra, Shai Osudoku,Shai-Osudoku)
-(Accra, Tema Metropolitan,Tema Central)
-(Accra, ,Tema East)
-(Accra, Tema West Municipal,Tema West)
-(Accra, Weija Gbawe Municipal,Weija)
-(Bono, Atebubu-Amantin Municipal,Atebubu-Amantin)
-(Bono, Kintampo North Municipal,Kintampo North)
-(Bono, Kintampo South,Kintampo South)
-(Bono, Nkoranza North,Nkoranza North)
-(Bono, Nkoranza South Municipal,Nkoranza South)
-(Bono, Pru East,Pru East)
-(Bono, Pru West,Pru West)
-(Bono, Sene East,Sene East)
-(Bono, Sene West,Sene West)
-(Bono, Techiman Municipal,Techiman South)
-(Bono, Techiman North,Techiman North)
-(Central, Abura Asebu Kwamankese,Abura-Asebu-Kwamankese)
-(Central, Agona East,Agona East)
-(Central, Agona West Municipal,Agona West)
-(Central, Ajumako Enyan Essiam,Ajumako-Enyan-Essiam)
-(Central, Asikuma Odoben Brakwa,Asikuma-Odoben-Brakwa)
-(Central, Assin Central Municipal,Assin Central)
-(Central, Assin North,Assin North)
-(Central, Assin South,Assin South)
-(Central, Awutu Senya East Municipal,Awutu-Senya East)
-(Central, Awutu Senya West,Awutu-Senya West)
-(Central, Cape Coast Metropolitan,Cape Coast North)
-(Central, Cape Coast Metropolitan,Cape Coast South)
-(Central, Effutu Municipal,Effutu)
-(Central, Ekumfi,Ekumfi)
-(Central, Gomoa East,Gomoa East)
-(Central, Gomoa Central,Gomoa Central)
-(Central, Gomoa West,Gomoa West)
-(Central, Komenda-Edina-Eguafo-Abirem Municipal,Komenda-Edina-Eguafo-Abirem)
-(Central, Mfantsiman Municipal,Mfantseman)
-(Central, Twifo Atti Morkwa,Twifo-Atii Morkwaa)
-(Central, Twifo/Heman/Lower Denkyira,Hemang Lower Denkyira)
-(Central, Upper Denkyira East Municipal,Upper Denkyira East)
-(Central, Upper Denkyira West,Upper Denkyira West)
-(Eastern, Abuakwa North Municipal,Abuakwa North)
-(Eastern, Abuakwa South Municipal,Abuakwa South)
-(Eastern, Achiase,Achiase)
-(Eastern, Akuapim North Municipal,Akropong)
-(Eastern, Akuapim South,Akwapim South)
-(Eastern, Akyemansa,Ofoase-Ayirebi)
-(Eastern, Asene Manso Akroso,Asene Akroso Manso)
-(Eastern, Asuogyaman,Asuogyaman)
-(Eastern, Atiwa East,Atiwa East)
-(Eastern, Atiwa West,Atiwa West)
-(Eastern, Ayensuano,Ayensuano)
-(Eastern, Birim Central Municipal,Akim Oda)
-(Eastern, Birim North,Abirem)
-(Eastern, Birim South,Akim Swedru)
-(Eastern, Denkyembour,Akwatia)
-(Eastern, Fanteakwa North,Fanteakwa North)
-(Eastern, Fanteakwa South,Fanteakwa South)
-(Eastern, Kwaebibirem Municipal,Kade)
-(Eastern, Kwahu Afram Plains North,Afram Plains North)
-(Eastern, Kwahu Afram Plains South, Afram Plains South)
-(Eastern, Kwahu East,Abetifi)
-(Eastern, Kwahu South,Mpraeso)
-(Eastern, Kwahu West Municipal,Nkawkaw)
-(Eastern, Lower Manya Krobo Municipal,Lower Manya)
-(Eastern, New Juaben North Municipal,New Juaben North)
-(Eastern, New Juaben South Municipal,New Juaben South)
-(Eastern, Nsawam Adoagyire Municipal,Nsawam Adoagyiri)
-(Eastern, Okere,Okere)
-(Eastern, Suhum Municipal,Suhum)
-(Eastern, Upper Manya Krobo,Upper Manya)
-(Eastern, Upper West Akim,Upper West Akim)
-(Eastern, West Akim Municipal,Lower West Akim)
-(Eastern, Yilo Krobo Municipal,Yilo Krobo)
-(North East, Bunkpurugu Nyankpanduri,Bunkpurugu)
-(North East, Chereponi,Chereponi)
-(North East, East Mamprusi Municipal,Nalerigu)
-(North East, Mamprugu Moagduri,Yagaba-Kubori)
-(North East, West Mamprusi Municipal,Walewale)
-(North East, Yunyoo-Nasuan,Yunyoo)
-(Northern, Gushegu Municipal,Gushegu)
-(Northern, Karaga,Karaga)
-(Northern, Kpandai,Kpandai)
-(Northern, Kumbungu,Kumbungu)
-(Northern, Mion,Mion)
-(Northern, Nanton,Nanton)
-(Northern, Nanumba North Municipal,Bimbilla)
-(Northern, Nanumba South,Wulensi)
-(Northern, Saboba,Saboba)
-(Northern, Sagnarigu Municipal,Sagnarigu)
-(Northern, Savelugu Municipal,Savelugu)
-(Northern, Tamale Metropolitan,Tamale Central)
-(Northern, Tamale Metropolitan,Tamale South)
-(Northern, Tamale Metropolitan,Tatale Sanguli)
-(Northern, Tolon,Tolon)
-(Northern, Yendi Municipal,Yendi)
-(Northern, Zabzugu,Zabzugu)
-(Oti, Biakoye,Biakoye)
-(Oti, Jasikan,Buem)
-(Oti, Kadjebi,Akan)
-(Oti, Krachi East Municipal,Krachi East)
-(Oti, Krachi Nchumuru,Krachi Nchumuru)
-(Oti, Krachi West,Krachi West)
-(Oti, Nkwanta North,Nkwanta North)
-(Oti, Nkwanta South Municipal,Nkwanta South)
-(Savannah, Bole,Bole)
-(Savannah, Central Gonja,Yapei-Kusawgu)
-(Savannah, East Gonja Municipal,Salaga South)
-(Savannah, North East Gonja,Salaga North)
-(Savannah, North Gonja,Daboya-Mankarigu)
-(Savannah, Sawla-Tuna-Kalba,Sawla-Tuna-Kalba)
-(Savannah, West Gonja Municipal,Damango)
-(Upper East, Bawku Municipal,Bawku Central)
-(Upper East, Bawku West,Zebilla)
-(Upper East, Binduri,Binduri)
-(Upper East, Bolgatanga East,Bolgatanga East)
-(Upper East, Bolgatanga Municipal,Bolgatanga Central)
-(Upper East, Bongo,Bongo)
-(Upper East, Builsa North Municipal,Builsa North)
-(Upper East, Builsa South,Builsa South)
-(Upper East, Garu,Garu)
-(Upper East, Kassena Nankana Municipal,Navrongo Central)
-(Upper East, Kassena Nankana West,Chiana-Paga)
-(Upper East, Nabdam,Nabdam)
-(Upper East, Pusiga,Pusiga)
-(Upper East, Talensi,Talensi)
-(Upper East, Tempane,Tempane)
-(Upper West, Daffiama Bussie Issa,Daffiama Bussie Issa)
-(Upper West, Jirapa Municipal,Jirapa)
-(Upper West, Lambussie Karni,Lambussie)
-(Upper West, Lawra Municipal,Lawra)
-(Upper West, Nadowli Kaleo,Nadowli Kaleo)
-(Upper West, Nandom Municipal,Nandom)
-(Upper West, Sissala East Municipal,Sissala East)
-(Upper West, Sissala West,Sissala West)
-(Upper West, Wa East,Wa East)
-(Upper West, Wa Municipal,Wa Central)
-(Upper West, Wa West,Wa West)
-(Volta, Adaklu District,Adaklu)
-(Volta, Afadzato South,Afadjato South)
-(Volta, Agotime Ziope,Agotime-Ziope)
-(Volta, Akatsi North,Akatsi North)
-(Volta, Akatsi South,Akatsi South)
-(Volta, Anloga,Anlo)
-(Volta, Central Tongu,Central Tongu)
-(Volta, Ho Municipal,Ho Central)
-(Volta, Ho West,Ho West)
-(Volta, Hohoe Municipal,Hohoe)
-(Volta, Keta Municipal,Keta)
-(Volta, Ketu North Municipal,Ketu North)
-(Volta, Ketu South Municipal,Ketu South)
-(Volta, Kpando Municipal,Kpando)
-(Volta, North Dayi,North Dayi)
-(Volta, North Tongu,North Tongu)
-(Volta, South Dayi,South Dayi)
-(Volta, South Tongu,South Tongu)
-(Western, Ahanta West Municipal,Ahanta West)
-(Western, Amenfi Central,Amenfi Central)
-(Western, Amenfi West Municipal,Amenfi West)
-(Western, Effia Kwesimintsim Municipal,Effia)
-(Western, Effia Kwesimintsim Municipal,Kwesimintsim)
-(Western, Ellembelle,Ellembelle)
-(Western, Jomoro Municipal,Jomoro)
-(Western, Mpohor,Mpohor)
-(Western, Nzema East Municipal,Evalue Gwira Evalue-Gwira)
-(Western, Prestea-Huni Valley Municipal,Prestea-Huni Valley)
-(Western, Sekondi Takoradi Metropolitan,Essikado-Ketan)
-(Western, Sekondi Takoradi Metropolitan,Sekondi)
-(Western, Sekondi Takoradi Metropolitan,Takoradi)
-(Western, Shama,Shama)
-(Western, Tarkwa-Nsuaem Municipal,Tarkwa-Nsuaem)
-(Western, Wassa Amenfi East Municipal,Amenfi East)
-(Western, Wassa East,Wassa East)
-(Western North, Aowin Municipal,Aowin)
-(Western North, Bia East,Bia East)
-(Western North, Bia West,Bia West)
-(Western North, Bibiani Anhwiaso Bekwai Municipal,Bibiani-Anhwiaso-Bekwai)
-(Western North, Bodi,Bodi)
-(Western North, Juaboso,Juabeso)
-(Western North, Sefwi Akontombra,Sefwi-Akontombra)
-(Western North, Sefwi-Wiawso Municipal,Sefwi-Wiawso)
-(Western North, Suaman,Suaman)
+Greater Accra, Ablekuma Central Municipal,Ablekuma Central
+Greater Accra, Ablekuma North Municipal,Ablekuma North
+Greater Accra, Ablekuma West Municipal,Ablekuma West
+Greater Accra, Accra Metropolitan,Ablekuma South
+Greater Accra, Accra Metropolitan,Odododiodio
+Greater Accra, Accra Metropolitan,Okaikwei Central
+Greater Accra, Accra Metropolitan,Okaikwei South
+Greater Accra, Ada East,Ada
+Greater Accra, Ada West,Sege
+Greater Accra, Adenta Municipal,Adenta
+Greater Accra, Ashaiman Municipal,Ashaiman
+Greater Accra, Ayawaso Central Municipal,Ayawaso Central
+Greater Accra, Ayawaso East Municipal,Ayawaso East
+Greater Accra, Ayawaso North Municipal,Ayawaso North
+Greater Accra, Ayawaso West Municipal,Ayawaso West
+Greater Accra, Ga Central Municipal,Anyaa-Sowutuom
+Greater Accra, Ga East Municipal,Dome-Kwabenya
+Greater Accra, Ga North Municipal,Trobu
+Greater Accra, Ga South Municipal,Bortianor-Ngleshie-Amanfrom
+Greater Accra, Ga South Municipal,Domeabra-Obom
+Greater Accra, Ga West Municipal,Amasaman
+Greater Accra, Korle Klottey Municipal,Korle Klottey
+Greater Accra, Kpone Katamanso Municipal,Kpone-Katamanso
+Greater Accra, Krowor Municipal,Krowor
+Greater Accra, La Dade Kotopon Municipal,Dade Kotopon
+Greater Accra, La Nkwantanang Madina Municipal,Abokobi-Madina
+Greater Accra, Ledzokuku Municipal,Ledzokuku
+Greater Accra, Ningo Prampram,Ningo-Prampram
+Greater Accra, Okaikwei North Municipal,Okaikwei North
+Greater Accra, Shai Osudoku,Shai-Osudoku
+Greater Accra, Tema Metropolitan,Tema Central
+Greater Accra, Tema Metropolitan,Tema East
+Greater Accra, Tema West Municipal,Tema West
+Greater Accra, Weija Gbawe Municipal,Weija
+Bono, Banda,Banda Ahenkro
+Bono, Berekum East Municipal,Berekum East
+Bono, Berekum West,Berekum West
+Bono, Dormaa Central Municipal,Dormaa Central
+Bono, Dormaa East District,Dormaa East
+Bono, Dormaa West,Dormaa West
+Bono, Jaman North,Jaman North
+Bono, Jaman South Municipal,Jaman South
+Bono, Sunyani Municipal,Sunyani East
+Bono, Sunyani West,Sunyani West
+Bono, Tain,Tain
+Bono, Wenchi Municipal,Wenchi
+Central, Abura Asebu Kwamankese,Abura-Asebu-Kwamankese
+Central, Agona East,Agona East
+Central, Agona West Municipal,Agona West
+Central, Ajumako Enyan Essiam,Ajumako-Enyan-Essiam
+Central, Asikuma Odoben Brakwa,Asikuma-Odoben-Brakwa
+Central, Assin Central Municipal,Assin Central
+Central, Assin North,Assin North
+Central, Assin South,Assin South
+Central, Awutu Senya East Municipal,Awutu-Senya East
+Central, Awutu Senya West,Awutu-Senya West
+Central, Cape Coast Metropolitan,Cape Coast North
+Central, Cape Coast Metropolitan,Cape Coast South
+Central, Effutu Municipal,Effutu
+Central, Ekumfi,Ekumfi
+Central, Gomoa East,Gomoa East
+Central, Gomoa Central,Gomoa Central
+Central, Gomoa West,Gomoa West
+Central, Komenda-Edina-Eguafo-Abirem Municipal,Komenda-Edina-Eguafo-Abirem
+Central, Mfantsiman Municipal,Mfantseman
+Central, Twifo Atti Morkwa,Twifo-Atii Morkwaa
+Central, Twifo/Heman/Lower Denkyira,Hemang Lower Denkyira
+Central, Upper Denkyira East Municipal,Upper Denkyira East
+Central, Upper Denkyira West,Upper Denkyira West
+Eastern, Abuakwa North Municipal,Abuakwa North
+Eastern, Abuakwa South Municipal,Abuakwa South
+Eastern, Achiase,Achiase
+Eastern, Akuapim North Municipal,Akropong
+Eastern, Akuapim South,Akwapim South
+Eastern, Akyemansa,Ofoase-Ayirebi
+Eastern, Asene Manso Akroso,Asene Akroso Manso
+Eastern, Asuogyaman,Asuogyaman
+Eastern, Atiwa East,Atiwa East
+Eastern, Atiwa West,Atiwa West
+Eastern, Ayensuano,Ayensuano
+Eastern, Birim Central Municipal,Akim Oda
+Eastern, Birim North,Abirem
+Eastern, Birim South,Akim Swedru
+Eastern, Denkyembour,Akwatia
+Eastern, Fanteakwa North,Fanteakwa North
+Eastern, Fanteakwa South,Fanteakwa South
+Eastern, Kwaebibirem Municipal,Kade
+Eastern, Kwahu Afram Plains North,Afram Plains North
+Eastern, Kwahu Afram Plains South, Ghana"
+Eastern, Kwahu East,Abetifi
+Eastern, Kwahu South,Mpraeso
+Eastern, Kwahu West Municipal,Nkawkaw
+Eastern, Lower Manya Krobo Municipal,Lower Manya
+Eastern, New Juaben North Municipal,New Juaben North
+Eastern, New Juaben South Municipal,New Juaben South
+Eastern, Nsawam Adoagyire Municipal,Nsawam Adoagyiri
+Eastern, Okere,Okere
+Eastern, Suhum Municipal,Suhum
+Eastern, Upper Manya Krobo,Upper Manya
+Eastern, Upper West Akim,Upper West Akim
+Eastern, West Akim Municipal,Lower West Akim
+Eastern, Yilo Krobo Municipal,Yilo Krobo
+North East, Bunkpurugu Nyankpanduri,Bunkpurugu
+North East, Chereponi,Chereponi
+North East, East Mamprusi Municipal,Nalerigu
+North East, Mamprugu Moagduri,Yagaba-Kubori
+North East, West Mamprusi Municipal,Walewale
+North East, Yunyoo-Nasuan,Yunyoo
+Northern, Gushegu Municipal,Gushegu
+Northern, Karaga,Karaga
+Northern, Kpandai,Kpandai
+Northern, Kumbungu,Kumbungu
+Northern, Mion,Mion
+Northern, Nanton,Nanton
+Northern, Nanumba North Municipal,Bimbilla
+Northern, Nanumba South,Wulensi
+Northern, Saboba,Saboba
+Northern, Sagnarigu Municipal,Sagnarigu
+Northern, Savelugu Municipal,Savelugu
+Northern, Tamale Metropolitan,Tamale Central
+Northern, Tamale Metropolitan,Tamale South
+Northern, Tamale Metropolitan,Tatale Sanguli
+Northern, Tolon,Tolon
+Northern, Yendi Municipal,Yendi
+Northern, Zabzugu,Zabzugu
+Oti, Biakoye,Biakoye
+Oti, Jasikan,Buem
+Oti, Kadjebi,Akan
+Oti, Krachi East Municipal,Krachi East
+Oti, Krachi Nchumuru,Krachi Nchumuru
+Oti, Krachi West,Krachi West
+Oti, Nkwanta North,Nkwanta North
+Oti, Nkwanta South Municipal,Nkwanta South
+Savannah, Bole,Bole
+Savannah, Central Gonja,Yapei-Kusawgu
+Savannah, East Gonja Municipal,Salaga South
+Savannah, North East Gonja,Salaga North
+Savannah, North Gonja,Daboya-Mankarigu
+Savannah, Sawla-Tuna-Kalba,Sawla-Tuna-Kalba
+Savannah, West Gonja Municipal,Damango
+Upper East, Bawku Municipal,Bawku Central
+Upper East, Bawku West,Zebilla
+Upper East, Binduri,Binduri
+Upper East, Bolgatanga East,Bolgatanga East
+Upper East, Bolgatanga Municipal,Bolgatanga Central
+Upper East, Bongo,Bongo
+Upper East, Builsa North Municipal,Builsa North
+Upper East, Builsa South,Builsa South
+Upper East, Garu,Garu
+Upper East, Kassena Nankana Municipal,Navrongo Central
+Upper East, Kassena Nankana West,Chiana-Paga
+Upper East, Nabdam,Nabdam
+Upper East, Pusiga,Pusiga
+Upper East, Talensi,Talensi
+Upper East, Tempane,Tempane
+Upper West, Daffiama Bussie Issa,Daffiama Bussie Issa
+Upper West, Jirapa Municipal,Jirapa
+Upper West, Lambussie Karni,Lambussie
+Upper West, Lawra Municipal,Lawra
+Upper West, Nadowli Kaleo,Nadowli Kaleo
+Upper West, Nandom Municipal,Nandom
+Upper West, Sissala East Municipal,Sissala East
+Upper West, Sissala West,Sissala West
+Upper West, Wa East,Wa East
+Upper West, Wa Municipal,Wa Central
+Upper West, Wa West,Wa West
+Volta, Adaklu District,Adaklu
+Volta, Afadzato South,Afadjato South
+Volta, Agotime Ziope,Agotime-Ziope
+Volta, Akatsi North,Akatsi North
+Volta, Akatsi South,Akatsi South
+Volta, Anloga,Anlo
+Volta, Central Tongu,Central Tongu
+Volta, Ho Municipal,Ho Central
+Volta, Ho West,Ho West
+Volta, Hohoe Municipal,Hohoe
+Volta, Keta Municipal,Keta
+Volta, Ketu North Municipal,Ketu North
+Volta, Ketu South Municipal,Ketu South
+Volta, Kpando Municipal,Kpando
+Volta, North Dayi,North Dayi
+Volta, North Tongu,North Tongu
+Volta, South Dayi,South Dayi
+Volta, South Tongu,South Tongu
+Western, Ahanta West Municipal,Ahanta West
+Western, Amenfi Central,Amenfi Central
+Western, Amenfi West Municipal,Amenfi West
+Western, Effia Kwesimintsim Municipal,Effia
+Western, Effia Kwesimintsim Municipal,Kwesimintsim
+Western, Ellembelle,Ellembelle
+Western, Jomoro Municipal,Jomoro
+Western, Mpohor,Mpohor
+Western, Nzema East Municipal,Evalue Gwira Evalue-Gwira
+Western, Prestea-Huni Valley Municipal,Prestea-Huni Valley
+Western, Sekondi Takoradi Metropolitan,Essikado-Ketan
+Western, Sekondi Takoradi Metropolitan,Sekondi
+Western, Sekondi Takoradi Metropolitan,Takoradi
+Western, Shama,Shama
+Western, Tarkwa-Nsuaem Municipal,Tarkwa-Nsuaem
+Western, Wassa Amenfi East Municipal,Amenfi East
+Western, Wassa East,Wassa East
+Western North, Aowin Municipal,Aowin
+Western North, Bia East,Bia East
+Western North, Bia West,Bia West
+Western North, Bibiani Anhwiaso Bekwai Municipal,Bibiani-Anhwiaso-Bekwai
+Western North, Bodi,Bodi
+Western North, Juaboso,Juabeso
+Western North, Sefwi Akontombra,Sefwi-Akontombra
+Western North, Sefwi-Wiawso Municipal,Sefwi-Wiawso
+Western North, Suaman,Suaman
+Ashanti, Adansi Asokwa,Adansi-Asokwa
+Ashanti, Adansi North,Fomena
+Ashanti, Adansi South,New Edubease
+Ashanti, Afigya Kwabre North,Afigya Kwabre North
+Ashanti, Afigya Kwabre South,Afigya Kwabre South
+Ashanti, Ahafo Ano North Municipal,Ahafo Ano North
+Ashanti, Ahafo Ano South East,Ahafo Ano South East
+Ashanti, Ahafo Ano South West,Ahafo Ano South West
+Ashanti, Akrofuom,Akrofuom
+Ashanti, Amansie Central,Odotobri
+Ashanti, Amansie West,Manso Nkwanta
+Ashanti, Amansie South,Manso Edubia
+Ashanti, Asante Akim Central Municipal,Asante Akim Central
+Ashanti, Asante Akim North,Asante Akim North
+Ashanti, Asante Akim South Municipal,Asante Akim South
+Ashanti, Asokore Mampong,Asawase
+Ashanti, Asokwa Municipal,Asokwa
+Ashanti, Atwima Kwanwoma,Atwima-Kwanwoma
+Ashanti, Atwima Mponua,Atwima Mponua
+Ashanti, Atwima Nwabiagya Municipal,Atwima-Nwabiagya South
+Ashanti, Atwima Nwabiagya North,Atwima-Nwabiagya North
+Ashanti, Bekwai Municipal,Bekwai
+Ashanti, Bosome Freho,Bosome-Freho
+Ashanti, Bosomtwe,Bosomtwe
+Ashanti, Ejisu Municipal,Ejisu
+Ashanti, Ejura Sekyedumase Municipal,Ejura-Sekyedumase
+Ashanti, Juaben Municipal,Juaben
+Ashanti, Kumasi Metropolitan,Bantama
+Ashanti, Kumasi Metropolitan,Manhyia North
+Ashanti, Kumasi Metropolitan,Manhyia South
+Ashanti, Kumasi Metropolitan,Nhyiaeso
+Ashanti, Kumasi Metropolitan,Subin
+Ashanti, Kwabre East Municipal,Kwabre East
+Ashanti, Kwadaso Municipal,Kwadaso
+Ashanti, Mampong Municipal,Mampong
+Ashanti, Obuasi East Municipal,Obuasi East
+Ashanti, Obuasi Municipal,Obuasi West
+Ashanti, Offinso Municipal,Offinso South
+Ashanti, Offinso North,Offinso North
+Ashanti, Oforikrom Municipal,Oforikrom
+Ashanti, Old Tafo Municipal,Old Tafo
+Ashanti, Sekyere Afram Plains,Sekyere Afram Plains
+Ashanti, Sekyere Central,Nsuta-Kwamang
+Ashanti, Sekyere East,Afigya Sekyere East
+Ashanti, Sekyere Kumawu,Kumawu
+Ashanti, Sekyere South,Effiduase-Asokore
+Ashanti, Suame Municipal,Suame
+Ahafo, Asunafo North Municipal,Asunafo North
+Ahafo, Asunafo South,Asunafo South
+Ahafo, Asutifi North,Asutifi North
+Ahafo, Asutifi South,Asutifi South
+Ahafo, Tano North Municipal,Tano North
+Ahafo, Tano South Municipal,Tano South
+Bono East, Atebubu-Amantin Municipal,Atebubu-Amantin
+Bono East, Kintampo North Municipal,Kintampo North
+Bono East, Kintampo South,Kintampo South
+Bono East, Nkoranza North,Nkoranza North
+Bono East, Nkoranza South Municipal,Nkoranza South
+Bono East, Pru East,Pru East
+Bono East, Pru West,Pru West
+Bono East, Sene East,Sene East
+Bono East, Sene West,Sene West
+Bono East, Techiman Municipal,Techiman South
+Bono East, Techiman North,Techiman North
