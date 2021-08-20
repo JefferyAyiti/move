@@ -86,7 +86,7 @@ Eastern, Fanteakwa North,Fanteakwa North
 Eastern, Fanteakwa South,Fanteakwa South
 Eastern, Kwaebibirem Municipal,Kade
 Eastern, Kwahu Afram Plains North,Afram Plains North
-Eastern, Kwahu Afram Plains South, Ghana"
+Eastern, Kwahu Afram Plains South, Afram Plains South
 Eastern, Kwahu East,Abetifi
 Eastern, Kwahu South,Mpraeso
 Eastern, Kwahu West Municipal,Nkawkaw
