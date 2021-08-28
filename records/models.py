@@ -68,7 +68,8 @@ class ParlMember(models.Model):
 	last_name = models.CharField(max_length=30)
 	first_name= models.CharField(max_length =30)
 	year_elect = models.DateField(blank=True,default=date.today)
-	no_terms = models.IntegerField()
+	no_terms = models.PositiveIntegerField(default=1)
+	party = models.ForeignKey('Party', on_delete = models.PROTECT, default='NPP')
 	elected_to = models.OneToOneField('Domain', on_delete=models.PROTECT)
 
 	def __str__(self):
@@ -77,7 +78,7 @@ class ParlMember(models.Model):
 	class Meta:
 		verbose_name = 'MP'
 		verbose_name_plural = 'MPs'
-		ordering = ('last_name','first_name', 'no_terms',)
+		ordering = ('last_name','first_name', 'elected_to',)
 
 
 class Domain(models.Model):

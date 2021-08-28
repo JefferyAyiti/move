@@ -19,7 +19,7 @@ class Activity_Admin(admin.ModelAdmin):
 admin.site.register(Activity, Activity_Admin)
 
 class MP_Admin(admin.ModelAdmin):
-	list_display = ('persnr', 'last_name', 'first_name', 'year_elect',)
+	list_display = ('persnr', 'last_name', 'first_name', 'no_terms', 'elected_to',)
 admin.site.register(ParlMember, MP_Admin)
 
 class Domain_Admin(admin.ModelAdmin):
