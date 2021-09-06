@@ -15,8 +15,8 @@ class Ministry(models.Model):
 		ordering = ('name', 'est',)
 
 class Minister(models.Model):
-	persnr = models.SmallAutoField(verbose_name="PersNr", primary_key=True,)
-	last_name = models.CharField(max_length=30,)
+	persnr = models.AutoField(verbose_name="PersNr", primary_key=True,)
+	surname = models.CharField(max_length=30,)
 	first_name = models.CharField(max_length =30,)
 	appoint_year = models.DateField(blank=True, default=date.today, verbose_name='YearOfAppointment')
 	POST = [('MIN', 'Minister'),
@@ -25,12 +25,12 @@ class Minister(models.Model):
 	appointed = models.ForeignKey('Ministry', on_delete= models.PROTECT,)
 
 	def __str__(self):
-		return "%s, %s" % (self.last_name, self.first_name)
+		return "%s, %s" % (self.surname, self.first_name)
 
 	class Meta:
 		verbose_name = 'Minister'
 		verbose_name_plural = 'Ministers'
-		ordering = ('rank','last_name','first_name',)
+		ordering = ('rank','surname','first_name',)
 
 class Activity(models.Model):
 	act_id = models.SmallAutoField(verbose_name = "ActivityID", primary_key=True)
@@ -65,20 +65,20 @@ class Party(models.Model):
 
 class ParlMember(models.Model):
 	persnr = models.SmallAutoField(verbose_name='PersNr', primary_key=True)
-	last_name = models.CharField(max_length=30)
+	surname = models.CharField(max_length=30)
 	first_name= models.CharField(max_length =30)
 	year_elect = models.DateField(blank=True,default=date.today)
 	no_terms = models.PositiveIntegerField(default=1)
 	party = models.ForeignKey('Party', on_delete = models.PROTECT, default='NPP')
-	elected_to = models.OneToOneField('Domain', on_delete=models.PROTECT)
+	elected_to = models.OneToOneField('Domain', on_delete=models.PROTECT, blank=True, default='')
 
 	def __str__(self):
-		return "%s, %s" % (self.last_name, self.first_name)
+		return "%s, %s" % (self.surname, self.first_name)
 
 	class Meta:
 		verbose_name = 'MP'
 		verbose_name_plural = 'MPs'
-		ordering = ('last_name','first_name', 'elected_to',)
+		ordering = ('surname','first_name', 'elected_to',)
 
 
 class Domain(models.Model):
